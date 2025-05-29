@@ -1,4 +1,4 @@
-# FRONT-END-DEVELOPER-ASSIGNMENT-TASK-
+Simple Note App
 
 # Project Name
 Simple Notes App
